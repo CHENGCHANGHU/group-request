@@ -1,7 +1,7 @@
 {
-  "name": "@golden-tiger/javascript-package-template",
-  "version": "0.0.0",
-  "description": "@golden-tiger/javascript-package-template",
+  "name": "@golden-tiger/group-request",
+  "version": "0.0.1",
+  "description": "@golden-tiger/group-request",
   "main": "./lib/cjs-module.js",
   "module": "./lib/es-module.js",
   "typings": "./dist/src/index.d.ts",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CHENGCHANGHU/javascript-package-template.git"
+    "url": "git+https://github.com/CHENGCHANGHU/group-request.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
@@ -25,14 +25,14 @@
   ],
   "keywords": [
     "golden-tiger",
-    "javascript-package-template"
+    "group-request"
   ],
   "author": "Cheng ChangHu",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/CHENGCHANGHU/javascript-package-template/issues"
+    "url": "https://github.com/CHENGCHANGHU/group-request/issues"
   },
-  "homepage": "https://github.com/CHENGCHANGHU/javascript-package-template#readme",
+  "homepage": "https://github.com/CHENGCHANGHU/group-request#readme",
   "devDependencies": {
     "@babel/core": "^7.18.13",
     "@babel/preset-env": "^7.18.10",
